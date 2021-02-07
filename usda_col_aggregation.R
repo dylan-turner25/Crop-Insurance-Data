@@ -9,7 +9,7 @@ end_year <- 2020
 start_year <- 1989
 
 # directory to store files
-setwd("/home/dylan/Dropbox/Research/Crop Insurance/USDA_COL")
+setwd("")
 
 # loop through years to download each year of data
 for(i in start_year:end_year){
